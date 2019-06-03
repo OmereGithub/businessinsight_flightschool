@@ -8,5 +8,5 @@ Date: June 3, 2019
 ## Project Deliverables
 Viewers can see my findings here:
 
-- summary_report.pdf: Discussion of the project scope, all analysis, and final results
-- workflow.ipynb: My workflow reveals all data cleaning and analysis
+- **summary_report.pdf**: Discussion of the project scope, all analysis, and final results
+- **workflow.ipynb**: My workflow reveals all data cleaning and analysis
